@@ -1,0 +1,13 @@
+faiss-cpu
+python-dotenv
+openai>=1.12.0
+httpx==0.27.2
+sentence-transformers
+pandas
+numpy
+langdetect
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langsmith

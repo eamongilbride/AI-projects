@@ -45,7 +45,7 @@ This repository implements a fully automated email agent by integrating FAISS-po
 In this solution we handle challenges such as input validation, language detection and translation, and strict JSON-only prompt engineering. This solution was tested with gpt-4o, qwen-qwq-32b, and deepseek-r1-distill-llama-70b.
 ### Solution Block Diagram
 <p align="center">
-  <img src="assets/email_agent.png" alt="Email Agent Block Diagram" />
+  <img src="assets/email_agent.PNG" alt="Email Agent Block Diagram" />
 </p>
 
 ### Sample LangSmith Trace
